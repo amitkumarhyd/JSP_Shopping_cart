@@ -20,6 +20,8 @@ create table cus_login
   
   select*from cus_login;
   
+  
+  
  create table prod_inventory
  (
   prod_Id int not null,
